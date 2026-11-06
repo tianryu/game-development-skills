@@ -1,0 +1,4 @@
+interface:
+  display_name: "tianruy游戏开发规范"
+  short_description: "游戏工程协作、显隐动效、交互验证、数据一致性、本地化与发行交付规范"
+  default_prompt: "使用 $tianruy-game-development-standards 处理当前游戏开发任务，只执行本批必要的实现和定向验证。"

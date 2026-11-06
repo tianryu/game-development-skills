@@ -1,0 +1,4 @@
+interface:
+  display_name: "小游戏开发规范"
+  short_description: "跨项目小游戏开发与验收流程，覆盖素材、移动交互、广告集成和发布排错"
+  default_prompt: "请使用 $minigame-development，依据当前项目需求检查开发、素材、交互、广告和发布交付，不继承其他游戏玩法。"
